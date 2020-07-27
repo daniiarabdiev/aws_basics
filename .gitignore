@@ -1,0 +1,6 @@
+env
+.env
+batch_script/create_repo.sh
+batch_script/dev_deploy.sh
+test1/.aws
+test1/hello_world/.env
